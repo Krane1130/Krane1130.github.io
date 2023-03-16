@@ -1,0 +1,77 @@
+.bg {
+    background-color: #e7e7e7;
+
+    height: 100vh;
+
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+}
+
+.bcg {
+    background-color: #e7e7e7;
+
+    height: 100vh;
+
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+}
+
+.cp {
+    background-color: #e7e7e7;
+
+    height: 100vh;
+
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+}
+
+.bkg {
+    background-color: #e7e7e7;
+
+    height: 100vh;
+
+    background-position: center;
+    background-position: no-repeat;
+    background-size: cover;
+}
+
+#Plexiverse {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+
+#home {
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 4px purple;
+}
+
+
+#Chinatown {
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    padding: 15px;
+    border: 3px solid red;
+}
+
+#kokushibo {
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    padding: 10px;
+}
+
+.map {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-sky-blue-ink-style-background-image_260100.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    opacity: 1;
+}
